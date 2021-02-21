@@ -1,3 +1,4 @@
+// File về ứng dụng của con trỏ và quy trình chương trình chạy
 #include <stdlib.h>
 #include <stdio.h>
 
